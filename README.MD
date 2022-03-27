@@ -1,5 +1,9 @@
 # My Favorite Cities To Visit In The USA
 
+## Demo
+A live demo using GitHub Pages: [Demo](https://edwinaquino.github.io/My-Favorite-US-Cities-Using-Google-Maps-Javascript-API/)
+
+
 ## Installation
 
 This is a small but power app to showcase Google Maps Javascript API. In this app, I have placed markers of my favorite cities in the United States.
