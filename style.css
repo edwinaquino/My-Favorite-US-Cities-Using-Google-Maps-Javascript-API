@@ -1,0 +1,30 @@
+#container {
+    max-width: 100%;
+    /* height: 100vh; */
+    /*Full screen*/
+    display: flex;
+    /*Displays child divs in one column*/
+    flex-direction: column;
+
+    /*Allow to flex the map and add  justify-content*/
+    justify-content: center;
+    /*To center map horizontally*/
+    align-items: center;
+    /*To center map vertically*/
+
+
+}
+
+#map {
+    height: 500px;
+    width: 100%;
+    /* background-color: red;*/
+    /* Uncomment to get a visual of the map div area*/
+
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
