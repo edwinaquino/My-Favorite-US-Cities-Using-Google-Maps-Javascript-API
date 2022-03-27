@@ -19,7 +19,7 @@ You will require an API key from Google.  [Instructions](https://developers.goog
 Once you have an API Key, you can add it to the index.html file:
 
 ```bash
-<script src="https://maps.googleapis.com/maps/api/js?key=[YOU_KEY]&callback=initMap"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=[YOUR_KEY]&callback=initMap"></script>
 ```
 
 ## License
